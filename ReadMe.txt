@@ -1,1 +1,1 @@
-This is First Application
+This Application is my First Application this use for Genrate QRcode.
