@@ -3,6 +3,16 @@
   <groupId>MyFirstApp</groupId>
   <artifactId>MyFirstApp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/com.google.zxing/core -->
+<dependency>
+    <groupId>com.google.zxing</groupId>
+    <artifactId>core</artifactId>
+    <version>2.2</version>
+</dependency>
+  
+  
+  </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
