@@ -29,7 +29,7 @@ public class QRCode {
 
 	public static void main(String[] args) throws WriterException, IOException,
 			NotFoundException {
-		String qrCodeData = "This Application for QRcode!";
+		String qrCodeData = "Application For Qr Code!";
 		String filePath = "codeQR.png";
 		String charset = "UTF-8"; // or "ISO-8859-1"
 		Map<EncodeHintType, ErrorCorrectionLevel> hintMap = new HashMap<EncodeHintType, ErrorCorrectionLevel>();
